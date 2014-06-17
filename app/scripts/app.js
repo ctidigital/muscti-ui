@@ -4,7 +4,8 @@ angular.module('musictiApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
-  'ngRoute'
+  'ngRoute',
+  'mm.foundation'
 ])
   .config(function ($routeProvider) {
     $routeProvider
