@@ -6,7 +6,7 @@ angular.module('musictiApp')
       templateUrl: 'views/components/topbar.html',
       restrict: 'E',
       link: function postLink(scope, element, attrs) {
-
+        console.log(scope,element,attrs);
       }
     };
   });

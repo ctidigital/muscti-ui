@@ -21,6 +21,10 @@ npm install -g grunt-cli bower
 Install `generator-angular`:
 ```
 npm install -g generator-angular
+
+# Getting Started
+
+
 ```
 
 ### Route
